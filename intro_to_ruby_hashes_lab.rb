@@ -1,5 +1,5 @@
 def base_hash
-  hash=>{
+  base_hash=>{
     :rail_roads=>{}
   }
   # Remember implicit return! We're returning this new Hash _without_ the
